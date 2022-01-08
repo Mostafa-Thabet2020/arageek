@@ -1,0 +1,25 @@
+﻿input and output analysis:
+
+People Parent
+Empolyee child from people
+User child from people
+
+MainCategory
+SubCatageory
+News
+Blogs and Contributions
+Newly Articles
+
+Contact Us
+
+
+Data relationship analysis:
+
+MainCategory > SubCatageory > News
+MainCategory > SubCatageory > Blogs and Contributions
+MainCategory > SubCatageory > Newly Articles
+
+
+OOP analysis:
+
+People Contain ( user,empolyee )
